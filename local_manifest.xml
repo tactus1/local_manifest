@@ -10,7 +10,7 @@
         <project path="vendor/xiaomi/tissot" name="Lafactorial/vendor_xiaomi_tissot" remote="rem" revision="lineage-21" clone-depth="1" />
         <project path="vendor/xiaomi/msm8953-common" name="Lafactorial/vendor_xiaomi_msm8953-common" remote="rem" revision="lineage-21" clone-depth="1" />
         <project path="kernel/xiaomi/msm8953" name="Lafactorial/android_kernel_xiaomi_msm8953" remote="rem" revision="rebase" clone-depth="1" />
-        <project path="device/qcom/sepolicy-legacy-um" name="DerpFest-AOSP/device_qcom_sepolicy" remote="rem" revision="14-legacy-um" />
+        <project path="device/qcom/sepolicy-legacy-um" name="tactus1/android_device_qcom_sepolicy" remote="rem" revision="lineage-21.0-legacy-um" />
         <project path="hardware/qcom-caf/msm8996/audio" name="PixelExperience/hardware_qcom-caf_msm8996_audio" remote="rem" revision="fourteen" clone-depth="1" />
         <project path="hardware/qcom-caf/msm8996/display" name="tactus1/hardware_qcom-caf_msm8996_display" remote="rem" revision="fourteen" clone-depth="1" />
         <project path="hardware/qcom-caf/msm8996/media" name="PixelExperience/hardware_qcom-caf_msm8996_media" remote="rem" revision="fourteen" clone-depth="1" />
