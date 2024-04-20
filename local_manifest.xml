@@ -3,7 +3,6 @@
         <remote name="rem"
                 fetch="https://github.com" />
         <remove-project name="android_hardware_lineage_compat" />
-        <remove-project name="device_qcom_sepolicy" />
         <project path="hardware/lineage/compat" name="Lafactorial/android_hardware_lineage_compat" remote="rem" revision="lineage-21.0" />
         <project path="hardware/xiaomi" name="yaap/hardware_xiaomi" remote="rem" revision="fourteen" />
         <project path="device/xiaomi/tissot" name="tactus1/android_device_xiaomi_tissot" remote="rem" revision="YAAP-14" clone-depth="1" />
