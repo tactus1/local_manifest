@@ -2,8 +2,6 @@
 <manifest>
         <remote name="rem"
                 fetch="https://github.com" />
-        <remove-project name="LineageOS/android_hardware_lineage_compat" />
-        <project path="hardware/lineage/compat" name="Lafactorial/android_hardware_lineage_compat" remote="rem" revision="lineage-21.0" />
         <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="rem" revision="lineage-21" />
 	<project path="device/xiaomi/raphael" name="tactus1/device_xiaomi_raphael" remote="rem" revision="mist-14" clone-depth="1" />
         <project path="vendor/xiaomi/raphael" name="SOVIET-ANDROID/vendor_xiaomi_raphael" remote="rem" revision="14.0" clone-depth="1" />
