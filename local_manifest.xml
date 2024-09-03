@@ -4,6 +4,6 @@
                 fetch="https://github.com" />
 	<project path="device/xiaomi/raphael" name="tactus1/device_xiaomi_raphael" remote="rem" revision="dxui-14" clone-depth="1" />
         <project path="vendor/xiaomi/raphael" name="MohammadAlArabi/vendor_xiaomi_raphael" remote="rem" revision="RisingOs-14" clone-depth="1" />
-        <project path="kernel/xiaomi/raphael" name="tactus1/kernel_xiaomi_raphael" remote="rem" revision="14.0-matrixx" clone-depth="1" />
+        <project path="kernel/xiaomi/raphael" name="tactus1/kernel_xiaomi_raphael" remote="rem" revision="lineage-21" clone-depth="1" />
 
 </manifest>
