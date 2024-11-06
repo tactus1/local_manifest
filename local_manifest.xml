@@ -9,4 +9,6 @@
         <project path="kernel/xiaomi/raphael" name="soviet-android/kernel_xiaomi_raphael" remote="rem" revision="15.0" clone-depth="1" />
 	<project path="pebuilts/clang/host/linux-x86/boolx-clang" name="onettboots/boolx-clang" remote="remm" revision="Clang-17.0_x86" clone-depth="1" />
 	<project path="hardware/xiaomi" name="soviet-android/android_hardware_xiaomi" remote="rem" revision="15.0" clone-depth="1" />
+	<project path="device/xiaomi/raphael-kernel" name="soviet-android/device_xiaomi_raphael-kernel" remote="rem" revision="15.0" clone-depth="1" />
+
 </manifest>
